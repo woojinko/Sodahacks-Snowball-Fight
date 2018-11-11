@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-/Users/Shared/Unity/MultiplayerExample/final.app
+/Users/woojinko/Personal_Projects/Sodahacks/snowball_game.app
 SceneListBegin?
 Assets/Main.unity
 SceneListEnd?
