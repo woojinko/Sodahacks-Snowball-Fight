@@ -19,7 +19,7 @@ OR
 
 ## Ice Blocks
 * Press the N key to generate an ice block in your front-diagonal direction.
-![](single_ice_block).png)
+![](single_ice_block.png)
 ![](Ice_block_fortress.png)
 
 ## Advanced Movement
