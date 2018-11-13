@@ -20,6 +20,8 @@ OR
 ## Ice Blocks
 * Press the N key to generate an ice block in your front-diagonal direction.
 
+![](Ice_block_fortress.png)
+
 ## Advanced Movement
 * Move forward and left (Holding up+left or W+A) + alternate quickly between jumping and ice block spawning (N + spacebar) = Tornado Climbing, allowing you to gain elevation off the ground to dodge snowballs and evade opponents.
 ![](tornado_climb.png)
