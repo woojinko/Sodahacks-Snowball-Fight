@@ -3,14 +3,14 @@
 Download and run the snowball_game file to play.
 
 #
-# Snowball throwing / healthbar
+# Snowball Throwing / Healthbar
 ![](Snowballs_thrown.png)
 ![](Snowballs_hit.png)
 ![](Snowballs_hit_2.png)
 ![](Player_killed.png)
 
 #
-# Gameplay
+# Ice Blocks / PVP Gameplay
 ![](PVP_gameplay1.png)
 ![](PVP_gameplay2.png)
 ![](PVP_gameplay3.png)
