@@ -4,6 +4,10 @@
 2. Go to the DOWNLOAD_GAME folder and download the snowball_game.app file.
 3. Run snowball_game.app to play.
 
+## Authors
+** Newman Hu **
+** Woojin Ko **
+
 ## LAN Screen
 You can play with multiple players using 
 * Host Server/Client with the host's IP address 
