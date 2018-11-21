@@ -5,8 +5,8 @@
 3. Run snowball_game.app to play.
 
 ## Authors
-** Newman Hu **
-** Woojin Ko **
+* **Newman Hu**
+* **Woojin Ko**
 
 ## LAN Screen
 You can play with multiple players using 
